@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Wang</h1>
-<h3 align="center">A student at the University of San Francisco, majoring in Computer Science.</h3>
+<h3 align="center">A Computer Science graduate from the University of San Francisco.</h3>
 
 - 🌱 I’m currently learning **C++, Godot, and Machine Learning basics**, but I'm open to learning everything! 
 
